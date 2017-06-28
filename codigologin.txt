@@ -1,1 +1,3 @@
-si pone la contraseña correcta pasa
+si pone la contraseña correcta pasa e ingresa al sistema
+
+sino muestra un error
